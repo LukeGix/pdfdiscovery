@@ -7,7 +7,6 @@ def print_usage():
 	print("								  		     ")
 	print("Example: pdfdiscovery http://somedomain.com/documents/                        ")
 	print("										     ")
-	print("Date format supported: year:month:day , year:day:month, day:month:year        ")
 	print("										     ")
 	
 
